@@ -1,6 +1,6 @@
 # Dockerizing a Python Application
 
-![Project Image](project-image-url)
+![dockerizing-python-file](https://user-images.githubusercontent.com/71076769/219946420-c6e281a5-bf7e-48df-82c8-a2953d029a53.png)
 
 ---
 
