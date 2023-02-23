@@ -7,7 +7,7 @@ from fuzzywuzzy import process
 # Setting up connection to the football API
 url = 'http://api.football-data.org/v4/competitions/PL/teams' # gathers teams from the prem
 # Headers to access the API
-headers = {'X-Auth-Token': '83da9851cde140c9a0281808932554b0'}
+headers = {'X-Auth-Token': 'Add-API-key-here'}
 # Grabbing the response from the API
 response = requests.get(url, headers=headers)
 # ----------------------------------------------------------------------
